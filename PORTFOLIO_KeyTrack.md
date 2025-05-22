@@ -94,9 +94,6 @@ To enhance KeyTrack further:
 - Remote log syncing
 - Slack alert for suspicious combinations
 
-## 🔗 **Project Access**
-🧾 GitHub: [https://github.com/yourusername/keytrack-forensic-monitor](https://github.com/yourusername/keytrack-forensic-monitor)  
-📸 Screenshots & Demos: (optional)
 
 ## 🙋‍♂️ About Me
 I’m a final-year B.Tech CSE student passionate about security automation, OS internals, and ethical hacking. KeyTrack showcases my drive to explore system-level security programming and apply it to practical forensics tooling.
